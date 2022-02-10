@@ -1,4 +1,4 @@
-# A simple Jobylon job-list App
+# A simple Jobylon job-list app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
